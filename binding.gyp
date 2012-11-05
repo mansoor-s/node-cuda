@@ -21,7 +21,7 @@
         [ 'OS=="linux"', {
           "link_settings": {
             "libraries": [
-              '-lcuda',
+              '-lcudart',
             ]
           }
         }]
